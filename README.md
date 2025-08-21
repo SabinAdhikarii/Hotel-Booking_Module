@@ -3,5 +3,7 @@ This project is a simple Hotel Reservation System built using Python Flask for t
 
 Features
 1.Book Rooms: Users can book rooms by selecting from available room types.
+
 2.Manage Reservations: Users can view and manage their existing reservations.
+
 3.View Guest Details: Display guest information along with room type, room description, and total price for their stay.
